@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+Count react app with increment and decrement function with the help of useState and useEffect.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
